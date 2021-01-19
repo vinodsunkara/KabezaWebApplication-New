@@ -7,6 +7,11 @@
     <asp:Label runat="server" Text="Label"></asp:Label>
     <title></title>
 </head>
+    <body>
+        <h1>
+            Welcome to my site......!
+        </h1>
+    </body>
 <body>
     <form id="form1" runat="server">
         <p>
